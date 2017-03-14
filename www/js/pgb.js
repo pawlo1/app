@@ -20,10 +20,10 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
-function dane() {
+function wyswietlDane() {
 
 		dane = 'Imie i nazwisko :	Pawel Kalinowski' + '\n' +
-		       'Grupa dziekanska:	KrDUIs1012'\n';
+		       'Grupa dziekanska:	KrDUIs1012 '\n';
 
 			navigator.notification.alert(dane);
 }
